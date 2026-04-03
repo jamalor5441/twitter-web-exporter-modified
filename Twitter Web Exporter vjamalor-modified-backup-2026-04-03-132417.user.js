@@ -3,7 +3,7 @@
 // @name:zh-CN         Twitter 数据导出工具 vjamalor 增强版
 // @name:zh-TW         Twitter 資料匯出工具 vjamalor 增強版
 // @name:ja            Twitter データエクスポーター vjamalor 改良版
-// @namespace          https://github.com/prinsss
+// @namespace          https://github.com/jamalor5441
 // @version            1.2.4 vjamalor-modified
 // @author             prin <hi@prin.studio>
 // @description        Export tweets, bookmarks, lists and much more to JSON/CSV/HTML from Twitter(X) web app.
@@ -12,9 +12,9 @@
 // @description:ja     Twitter(X) ブラウザ版からツイート、ブックマーク、リストなどを取得し JSON/CSV/HTML に出力します。
 // @license            MIT
 // @icon               data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABmklEQVR4Ae3XA4wcARSA4dq2bUQ1g9pRbVtBzai2otpug9pxUttn2753/3m9Ozq/5NsdvvfGM6VKoshE8/ORFbAMbxCGWHzDHjS2sXxPlM0eKYclGoq3w1eIHVGYikaYg6e4ZppgAgQrVBSvDw+IEylIhSAATUyTHIYgFdsUNnAGosAfDMccLMtOchli4g7quFC8FhIhCsRD8Bk1sxMdgVjwxRyUdtDABIgKH9DQNNEkiB1fMB9VbDSwEKLQJ1S1TFQRXhAHYnADy9ETdTEeotAze7tzNJIhCiRBFLpnq/hmzMR65UkVO2WrgaOQPLLW3u6XPDLAVgOl8R5isEhUtHcSdkEoxEBXnN3ZuuMbxCDDnTVQF52xBcEQHX1BaWcNtDLwMpzg6tNtN0RnD5U8XsviGkQnYWih9CWjNBbDHaJBMsZqec8rjV54B1EoFXO0Fh+DrxCFEjBTTdFy6IvNGu4Hf9FXSdGheAUvjZdgLPajqtp3+jl4jVSIAgHYjRZ6fWC0wSpcwScEQZCMUPzEfezEYJQrVRKFOdIAZGq1QBG8EiYAAAAASUVORK5CYII=
-// @homepage           https://github.com/prinsss/twitter-web-exporter
-// @homepageURL        https://github.com/prinsss/twitter-web-exporter
-// @supportURL         https://github.com/prinsss/twitter-web-exporter/issues
+// @homepage           https://github.com/jamalor5441/twitter-web-exporter-modified
+// @homepageURL        https://github.com/jamalor5441/twitter-web-exporter-modified
+// @supportURL         https://github.com/jamalor5441/twitter-web-exporter-modified/issues
 // @match              *://twitter.com/*
 // @match              *://x.com/*
 // @require            https://cdn.jsdelivr.net/npm/dayjs@1.11.13/dayjs.min.js
